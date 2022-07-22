@@ -1,0 +1,78 @@
+[
+    {
+        "type": "Rishwik",
+        "id": 1,
+        "formFeilds":[
+            {
+                "id": "name",
+                "label": "Name",
+                "defaultValue":"Rishwik",
+                "type": "text"
+                
+            },
+            {
+                "id": "talking",
+                "label": "Task",
+                "defaultValue":"Talking",
+                "type": "text"
+            }
+        ]
+    },
+    {
+        "type": "Pradyumn",
+        "id": 2,
+        "formFeilds":[
+            {
+                "id": "name",
+                "label": "Name",
+                "defaultValue":"Pradyumn",
+                "type": "text"
+                
+            },
+            {
+                "id": "talking",
+                "label": "Task",
+                "defaultValue":"Talking",
+                "type": "text"
+            }
+        ]
+    },
+    {
+        "type": "Ishaan",
+        "id": 3,
+        "formFeilds":[
+            {
+                "id": "name",
+                "label": "Name",
+                "defaultValue":"Ishaan",
+                "type": "text"
+                
+            },
+            {
+                "id": "talking",
+                "label": "Task",
+                "defaultValue":"Talking",
+                "type": "text"
+            }
+        ]
+    },
+    {
+        "type": "Nehul",
+        "id": 4,
+        "formFeilds":[
+            {
+                "id": "name",
+                "label": "Name",
+                "defaultValue":"Nehul",
+                "type": "text"
+                
+            },
+            {
+                "id": "talking",
+                "label": "Task",
+                "defaultValue":"Talking",
+                "type": "text"
+            }
+        ]
+    }
+]

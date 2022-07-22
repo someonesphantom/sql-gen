@@ -1,0 +1,91 @@
+[
+    {
+        "type": "Json",
+        "id": "1",
+        "formFeilds":[
+            {
+                "id": "name",
+                "label": "Name",
+                "defaultValue":"JSONSource",
+                "type": "text"
+                
+            },
+            {
+                "id": "path",
+                "label": "File Path",
+                "defaultValue":"/eInsta.json",
+                "type": "text"
+            }
+        ]
+    },
+    {
+        "type": "Xml",
+        "id": "2",
+        "formFeilds":[
+            {
+                "id": "name",
+                "label": "Name",
+                "defaultValue":"xmlSource",
+                "type": "text"
+                
+            },
+            {
+                "id": "path",
+                "label": "File Path",
+                "defaultValue":"/eInsta.xml",
+                "type": "text"
+            }
+        ]
+    },
+    {
+        "type": "Csv",
+        "id": "3",
+        "formFeilds":[
+            {
+                "id": "name",
+                "label": "Name",
+                "defaultValue":"csvSource",
+                "type": "text"
+                
+            },
+            {
+                "id": "path",
+                "label": "File Path",
+                "defaultValue":"/eInsta.csv",
+                "type": "text"
+            },
+            {
+                "id": "header",
+                "label": "Header",
+                "defaultValue":"True",
+                "type": "text"
+                
+            },
+            {
+                "id": "inferSchema",
+                "label": "Infer Schema",
+                "defaultValue":"True",
+                "type": "text"
+            }
+        ]
+    },
+    {
+        "type": "Xlsx",
+        "id": "4",
+        "formFeilds":[
+            {
+                "id": "name",
+                "label": "Name",
+                "defaultValue":"excelSource",
+                "type": "text"
+                
+            },
+            {
+                "id": "path",
+                "label": "File Path",
+                "defaultValue":"/eInsta.xlsx",
+                "type": "text"
+            }
+        ]
+    }
+]

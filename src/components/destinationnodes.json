@@ -1,0 +1,78 @@
+[
+    {
+        "type": "Json",
+        "id": "1",
+        "formFeilds":[
+            {
+                "id": "name",
+                "label": "Name",
+                "defaultValue":"JSONSink",
+                "type": "text"
+                
+            },
+            {
+                "id": "path",
+                "label": "File Path",
+                "defaultValue":"/eInsta.json",
+                "type": "text"
+            }
+        ]
+    },
+    {
+        "type": "Xml",
+        "id": "2",
+        "formFeilds":[
+            {
+                "id": "name",
+                "label": "Name",
+                "defaultValue":"xmlSink",
+                "type": "text"
+                
+            },
+            {
+                "id": "path",
+                "label": "File Path",
+                "defaultValue":"/eInsta.xml",
+                "type": "text"
+            }
+        ]
+    },
+    {
+        "type": "Csv",
+        "id": "3",
+        "formFeilds":[
+            {
+                "id": "name",
+                "label": "Name",
+                "defaultValue":"csvSink",
+                "type": "text"
+                
+            },
+            {
+                "id": "path",
+                "label": "File Path",
+                "defaultValue":"/eInsta.csv",
+                "type": "text"
+            }
+        ]
+    },
+    {
+        "type": "Xlsx",
+        "id": "4",
+        "formFeilds":[
+            {
+                "id": "name",
+                "label": "Name",
+                "defaultValue":"xlsxSink",
+                "type": "text"
+                
+            },
+            {
+                "id": "path",
+                "label": "File Path",
+                "defaultValue":"/eInsta.xlsx",
+                "type": "text"
+            }
+        ]
+    }
+]
