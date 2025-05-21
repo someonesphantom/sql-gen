@@ -18,8 +18,11 @@ This is a node-based no-code tool that allows users to visually design and gener
 
 By clicking the **Add Table** button, a new node is added. You can double-click the node to rename the table. Clicking **Add Row** inside a node lets you add new rows, and double-clicking on a row allows you to edit its contents. You can connect rows using edges to define relationships.
 
-![SQL Generator UI](path/to/image1.png)
+![SQL Generator UI](UI.png)
 *Figure 1: SQL Generator – UI*
+
+![SQL File Output](Sql.png)
+*Figure 2: SQL Generator - UI*
 
 ---
 
@@ -27,8 +30,8 @@ By clicking the **Add Table** button, a new node is added. You can double-click 
 
 Clicking the **Generate Project** button creates a `.sql` file that contains the full schema based on the node graph you designed.
 
-![SQL File Output](path/to/image2.png)
-*Figure 2: Generated SQL File*
+![SQL File Output](Sql1.png)
+*Figure 3: Generated SQL File*
 
 ---
 
